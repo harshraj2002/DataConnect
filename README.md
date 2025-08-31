@@ -1,4 +1,4 @@
-# "DataConnect"
+# DataConnect
 
 A Neo4j Knowledge Graph Builder.
 

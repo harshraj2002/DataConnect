@@ -1,4 +1,6 @@
-# Neo4j Knowledge Graph Builder named "DataConnect"
+# "DataConnect"
+
+A Neo4j Knowledge Graph Builder.
 
 A comprehensive Python application that creates and manages a multi-dataset knowledge graph in Neo4j with integrated entity-relationship modeling.
 
